@@ -1,6 +1,7 @@
 {
     "name": "naeemjm/filament-symbol-picker",
     "type": "library",
+    "license": "MIT",
     "require": {
         "laravel/framework": "^12.2",
         "filament/filament": "^3.3"
