@@ -1,6 +1,6 @@
 <?php
 
-namespace naeemjm\FilamentSymbolPicker\Components;
+namespace Naeemjm\FilamentSymbolPicker\Components;
 
 use Filament\Forms\Components\Field;
 

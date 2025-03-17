@@ -6,21 +6,23 @@
         "laravel/framework": "^10",
         "filament/filament": "^3.2"
     },
-    "autoload": {
-        "psr-4": {
-            "Naeemjm\\FilamentSymbolPicker\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Naeem-j3"
         }
     ],
+
+    "autoload": {
+        "psr-4": {
+            "Naeemjm\\FilamentSymbolPicker\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
-                "naeemjm\\FilamentSymbolPicker\\SymbolPickerServiceProvider"
+                "Naeemjm\\FilamentSymbolPicker\\SymbolPickerServiceProvider"
             ]
         }
     }
+
 }

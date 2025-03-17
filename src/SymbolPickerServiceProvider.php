@@ -1,5 +1,4 @@
 <?php
-
 namespace Naeemjm\FilamentSymbolPicker;
 
 use Illuminate\Support\ServiceProvider;
