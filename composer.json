@@ -1,0 +1,25 @@
+{
+    "name": "naeemjm/filament-symbol-picker",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^12.2",
+        "filament/filament": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Naeemjm\\FilamentSymbolPicker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naeem-j3"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "naeemjm\\FilamentSymbolPicker\\SymbolPickerServiceProvider"
+            ]
+        }
+    }
+}
