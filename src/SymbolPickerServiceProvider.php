@@ -1,9 +1,9 @@
 <?php
 
-namespace YourVendor\FilamentSymbolPicker;
+namespace Naeemjm\FilamentSymbolPicker;
 
 use Illuminate\Support\ServiceProvider;
-use naeemjm\FilamentSymbolPicker\Components\SymbolPicker;
+use Naeemjm\FilamentSymbolPicker\Components\SymbolPicker;
 
 class SymbolPickerServiceProvider extends ServiceProvider
 {
